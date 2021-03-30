@@ -99,4 +99,4 @@ Gatsby Cloud is an end-to-end cloud platform specifically built for the Gatsby f
 <!-- AUTO-GENERATED-CONTENT:END -->
 Note:
 
-Tutorial next chapter is: https://www.gatsbyjs.com/docs/tutorial/part-two/
+Continue on to [part four of the tutorial](https://www.gatsbyjs.com/docs/tutorial/part-four/) where you’ll start learning about Gatsby’s data layer and programmatically creating pages!
